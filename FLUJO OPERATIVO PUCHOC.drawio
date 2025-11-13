@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.0.2">
   <diagram name="Página-1" id="FrbgvDII4ACpt23AAqpz">
-    <mxGraphModel dx="2140" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="713" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,6 +111,11 @@
         <mxCell id="9YmzxAMdKYNYmAeEdNeE-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9YmzxAMdKYNYmAeEdNeE-40" target="9YmzxAMdKYNYmAeEdNeE-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="9YmzxAMdKYNYmAeEdNeE-137" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9YmzxAMdKYNYmAeEdNeE-46">
+          <mxGeometry x="-0.437" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9YmzxAMdKYNYmAeEdNeE-40" value="¿ES REPARTO?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="760" width="80" height="80" as="geometry" />
         </mxCell>
@@ -194,6 +199,11 @@
         </mxCell>
         <mxCell id="9YmzxAMdKYNYmAeEdNeE-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9YmzxAMdKYNYmAeEdNeE-86" target="9YmzxAMdKYNYmAeEdNeE-102">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9YmzxAMdKYNYmAeEdNeE-138" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9YmzxAMdKYNYmAeEdNeE-103">
+          <mxGeometry x="-0.4431" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="9YmzxAMdKYNYmAeEdNeE-86" value="¿ES PROPIO?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377.25" y="1370" width="96" height="90" as="geometry" />
